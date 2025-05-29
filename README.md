@@ -4,11 +4,15 @@ Welcome to the Python for Finance workshop, where we'll explore, analyse and vis
 
 ## Workshop Materials
 
-All of the material in this workshop can be run locally, or in a Codespace using this link:
+All of the material in this workshop can be downloaded as a ZIP and run locally:
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/ImperialCollegeLondon/efds-ta-python/archive/refs/heads/main.zip)
+
+or run in a Codespace using this link:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ImperialCollegeLondon/efds-ta-python?quickstart=1)
 
-If you prefer, the Notebooks will also work in Google Colab, via the links below:
+Alternatively, the Notebooks will also work in Google Colab, via the links below:
 
 1. Pandas Refresh [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/01.%20Pandas%20Refresher.ipynb)
 2. Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/02.%20Data%20Analysis.ipynb)
@@ -29,7 +33,7 @@ During the workshop, we'll be writing code into these Notebooks together. It is 
 
   <summary>Completed Notebooks</summary>
 
-  <br>Available in the Codespace under `completed/`, or in Google Colab via these links:
+  <br>Available in VS Code under `completed/`, or in Google Colab via these links:
 
 * [Pandas Refresher](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/01.%20Pandas%20Refresher.ipynb)
 * [Data Analysis](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/02.%20Data%20Analysis.ipynb)
