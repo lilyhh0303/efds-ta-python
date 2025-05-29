@@ -4,7 +4,11 @@ Welcome to the Python for Finance workshop, where we'll explore, analyse and vis
 
 ## Workshop Materials
 
-All of the material in this workshop can be run locally, or you can run the Notebooks in Google Colab, in the browser using the links below:
+All of the material in this workshop can be run locally, or in a Codespace using this link:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ImperialCollegeLondon/efds-ta-python?quickstart=1)
+
+If you prefer, the Notebooks will also work in Google Colab, via the links below:
 
 1. Pandas Refresh [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/01.%20Pandas%20Refresher.ipynb)
 2. Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/02.%20Data%20Analysis.ipynb)
@@ -15,7 +19,7 @@ All of the material in this workshop can be run locally, or you can run the Note
 7. Strategies [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/07.%20Strategies.ipynb)
 
 > [!NOTE]
-> You will need a Google account to access Google Colab.
+> You will need a GitHub account to access Codespaces, or a Google account to access Google Colab. Both accounts are free.
 
 ## Further Info
 
@@ -24,6 +28,8 @@ During the workshop, we'll be writing code into these Notebooks together. It is 
 <details>
 
   <summary>Completed Notebooks</summary>
+
+  <br>Available in the Codespace under `completed/`, or in Google Colab via these links:
 
 * [Pandas Refresher](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/01.%20Pandas%20Refresher.ipynb)
 * [Data Analysis](https://colab.research.google.com/github/ImperialCollegeLondon/efds-ta-python/blob/main/completed/02.%20Data%20Analysis.ipynb)
