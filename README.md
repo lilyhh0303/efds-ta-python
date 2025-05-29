@@ -1,6 +1,6 @@
 # Python for Finance Summer Workshop
 
-Welcome to the Python for Finance workshop, where we'll explore, analyse and visualise time series data and CRSP data.
+Welcome to the Python for Finance workshop, where we'll explore, analyse and visualise financial data.
 
 ## Workshop Materials
 
